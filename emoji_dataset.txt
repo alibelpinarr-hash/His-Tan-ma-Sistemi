@@ -1,0 +1,15 @@
+Cümle;Duygu_Etiketi
+Bugün hava gerçekten harika, içim kıpır kıpır!;positive
+Sınavı başarıyla geçtim, çok mutluyum ve kutlama yapıyoruz!;positive
+Her şey üst üste geliyor, kendimi çok şanssız ve üzgün hissediyorum.;negative
+Yarın sabah saat 09:00'da haftalık olağan toplantı yapılacak.;notr
+Yeni aldığım telefon bozuk çıktı, canım inanılmaz sıkkın.;negative
+Doğum günün kutlu olsun, yeni yaşın sana güzellikler getirsin!;positive
+Kütüphaneden aldığım kitapları masanın üzerine bıraktım.;notr
+Sokaktaki yavru kediyi görünce içim ısındı, çok sevimliydi.;positive
+Proje ödevini yetiştiremediğim için çok stresliyim ve korkuyorum.;negative
+Ders programında herhangi bir değişiklik yapılmadığı açıklandı.;notr
+Yorgunluktan bitmiş durumdayım, enerjim tamamen tükendi.;negative
+Gelecek hafta vizeler başlayacağı için kütüphanede çalışacağım.;notr
+Arkadaşlarımla harika bir akşam yemeği yedik, çok eğlenceliydi.;positive
+Telefonun şarjı bittiği için kimseye ulaşamıyorum, sinir bozucu.;negative
